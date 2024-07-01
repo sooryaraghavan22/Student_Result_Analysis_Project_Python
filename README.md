@@ -11,7 +11,7 @@ The primary goal is to analyze the factors that influence test scores in a stude
 ## Sample Insights:
 * Parent's education has a positive impact on student's scores.
 * There is no significant impact on student's scores due to their parents' marital status.
-* We have no outliers in MathScore, but the maximum number of outliers is in WritingScore.
+* Observed one outlier with a value of zero in MathScore, and the maximum number of outliers is in WritingScore.
 
 
 
