@@ -9,8 +9,8 @@ The primary goal is to analyze the factors that influence test scores in a stude
 * **Data Analysis:** I have conducted Exploratory Data Analysis (EDA), used visualizations (Matplotlib and Seaborn) to explore relationships between variables, and identified any trends or outliers.
 
 ## Sample Insights:
-* Parents' education, sports practice, weekly study hours, a standard(healthy) food, and test preparation have a positive impact on students' scores.
-* There is no significant impact on students' scores due to their parents' marital status, number of siblings, being the first child, or transportation.
+* Parents' education, sports practice, weekly study hours, a standard(healthy) food,being the first child and test preparation have a positive impact on students' scores.
+* There is no significant impact on students' scores due to their parents' marital status, number of siblings, or transportation.
 * Observed one outlier with a value of zero in MathScore, and the maximum number of outliers is in WritingScore.
 
 
