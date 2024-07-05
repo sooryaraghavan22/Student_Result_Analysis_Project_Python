@@ -16,7 +16,7 @@ The primary goal is to analyze the factors that influence test scores in a stude
 
 ## Conclusion:
 * We need to focus on the factors that have a positive impact on students' scores to improve their scores.
-* Students have to concentrate more on math scores than on reading and writing scores
+* Students have to concentrate more on math scores than on reading and writing scores.
 
 
 
